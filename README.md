@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NeonMayhem
-- 👀 I’m interested in ROBLOX scripting at the moment
-- 🌱 I’m currently learning LuaA
+- 👀 I’m a ROBLOX scripter
+- 🌱 I’m experienced in Luau
 - 💞️ I’m currently not looking for any collaborations
-- 📫 You can reach me on discord at NeonMayhem#2293
+- 📫 You can reach me on discord @NeonMayhem
 
 <!---
 NeonMayhem/NeonMayhem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
